@@ -6,7 +6,7 @@ Bootstrap was used for the styling.
 
 ![image](https://user-images.githubusercontent.com/46134711/194760654-25c2fe0d-02cf-4ee1-82a6-1648a2f18785.png)
 
-This project was created following on-line tutorial.
+This project was created following the on-line tutorial.
 
 ## Available Scripts
 
@@ -18,4 +18,4 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-
+###  run `npm instal` to upload all needed packages
